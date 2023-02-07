@@ -1,7 +1,7 @@
 
 public class Hello {
   
-  public static String GREETING = "Heworld!world!! branch";
+  public static String GREETING = "1";
   
   public static void main(String []args) {
     
