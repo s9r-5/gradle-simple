@@ -1,7 +1,7 @@
 
 public class Hello {
   
-  public static String GREETING = "Helnilowoni ";
+  public static String GREETING = "Helnni ";
   
   public static void main(String []args) {
     
